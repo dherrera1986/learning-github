@@ -7,4 +7,4 @@ Link to the Slides
 
 Please add your name below:
 - Dhrumil Mehta
-Daniel Herrera
+- Daniel Herrera
